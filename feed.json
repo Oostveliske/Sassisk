@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sassisk",
+    "description": "",
+    "home_page_url": "https://Oostveliske.github.io/Sassisk",
+    "feed_url": "https://Oostveliske.github.io/Sassisk/feed.json",
+    "user_comment": "",
+    "icon": "https://Oostveliske.github.io/Sassisk/media/website/Intersaksische_vlagge_3.svg",
+    "author": {
+        "name": "Vry"
+    },
+    "items": [
+        {
+            "id": "https://Oostveliske.github.io/Sassisk/test-page/",
+            "url": "https://Oostveliske.github.io/Sassisk/test-page/",
+            "title": "De Anvang",
+            "summary": "Düt is myn eerste post",
+            "content_html": "<p>Düt is myn eerste post</p>",
+            "author": {
+                "name": "Vry"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-21T22:36:02+02:00",
+            "date_modified": "2025-10-21T22:52:09+02:00"
+        }
+    ]
+}
