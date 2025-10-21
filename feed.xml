@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Sassisk</title>
-    <link href="https://Oostveliske.github.io/Sassisk/feed.xml" rel="self" />
-    <link href="https://Oostveliske.github.io/Sassisk" />
+    <link href="https://Oostveliske.github.io/feed.xml" rel="self" />
+    <link href="https://Oostveliske.github.io" />
     <updated>2025-10-21T22:52:09+02:00</updated>
     <author>
         <name>Vry</name>
     </author>
-    <id>https://Oostveliske.github.io/Sassisk</id>
+    <id>https://Oostveliske.github.io</id>
 
     <entry>
         <title>De Anvang</title>
         <author>
             <name>Vry</name>
         </author>
-        <link href="https://Oostveliske.github.io/Sassisk/test-page/"/>
-        <id>https://Oostveliske.github.io/Sassisk/test-page/</id>
+        <link href="https://Oostveliske.github.io/test-page/"/>
+        <id>https://Oostveliske.github.io/test-page/</id>
 
         <updated>2025-10-21T22:36:02+02:00</updated>
             <summary>

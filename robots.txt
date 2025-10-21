@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://Oostveliske.github.io/Sassisk/sitemap.xml
+Sitemap: https://Oostveliske.github.io/sitemap.xml
